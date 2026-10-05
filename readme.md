@@ -7,6 +7,13 @@
 
 ---
 
+## Maintainer
+
+**Liang Yu**  
+Chinese Academy of Medical Sciences & Peking Union Medical College  
+GitHub: [@LianaSakana001](https://github.com/LianaSakana001)  
+ORCID: [0009-0002-2054-7620](https://orcid.org/0009-0002-2054-7620)
+
 ## 🚀 项目简介
 
 **notion-paper-automation** 是一个基于 **Python + Notion API + LLM** 的自动化文献管理工具。
@@ -271,7 +278,7 @@ notion-paper-automation/
 
 * `.env` 不会被提交
 * 密钥全部由用户自行设置
-* 本仓库没有任何个人信息
+* 除公开的维护者署名外，不提交私人信息或访问凭据
 * 支持本地 PDF 处理，无需上传到云
 
 适合科研人员、学生、团队内部使用。
